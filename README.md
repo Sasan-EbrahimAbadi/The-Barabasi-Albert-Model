@@ -1,6 +1,6 @@
 # The-Barabasi-Albert-Model
 This repository contains codes for the simulation of Barabasi Model
-### Describtion
+### Description
 We start with m0 nodes, the links between which are chosen arbitrarily, as long as each node has at least one link. The network develops following two steps :
 
 (A) Growth
