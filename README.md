@@ -19,3 +19,5 @@ reference:
 
 ### Codes
 In the code `Barabashi_network_m1` each new node has one link and in the code `Barabashi_network_m2` each new node has 2 links. In both codes the initial configuration starts with three nodes that are fully connected
+
+**Degree Distribution** and **Degree Dynamics** (the growth of the degree of nodes) are calculated in these codes. 
